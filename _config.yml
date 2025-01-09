@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Senior Scientist"
   #pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Scientific Computing and AI Directorate"
   location         : "Earth"
   employer         : "Fermilab"
   uri              : "http://www.fnal.gov"
